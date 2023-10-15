@@ -6,7 +6,6 @@ body {
   transition: scroll-behaviour 5ms;
   background-color: rgba(58, 54, 54, 0.822);
   color: white;
-  /* background-image: url(images/cover7.jpg); */
 }
 
 /* header */
@@ -14,9 +13,7 @@ body {
 .header {
 background-color: #fff;
 box-shadow: 1px 1px 4px 0 rgba(0,0,0,.1);
-/* position: fixed; */
 width: 100%;
-/* z-index: 3; */
 }
 
 .header a img{
